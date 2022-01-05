@@ -282,18 +282,18 @@ footer ul li {
     margin-bottom: 2%;
 }
 
-.fab:nth-of-type(1){
+.fa-facebook{
     color: #3b5998;
 }
 
-.fab:nth-of-type(2){
+.fa-instagram{
     color: #fcaf45;
 }
 
-.fab:nth-of-type(3){
+.fa-twitter{
     color: #55acee;
 }
 
-.fab:nth-of-type(4){
+.fa-youtube{
     color: #c4302b;
 }
